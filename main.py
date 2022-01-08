@@ -155,7 +155,7 @@ Client ID        : {client.user.id}
 ```
 """
   )
-  emHelp.set_footer(text = "Made by Chaotic || Github coming soon")
+  emHelp.set_footer(text = "Made by tax evasion#7713 || Github coming soon")
   await message.channel.send(embed = emHelp, delete_after = 30)
 
 
